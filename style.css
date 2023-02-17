@@ -1,0 +1,39 @@
+.heading
+{
+    width: 100%;
+    font-size: 30px;
+    box-shadow: 7px 7px 100px rgb(255, 255, 255);
+    margin-top: 0;
+}
+
+p
+{
+    font-size: 20;
+    color: orange;
+}
+
+body
+{
+    background-size: cover;
+}
+
+input
+{
+    width: 500px;
+    height: 40px;
+    border-radius: 5px
+}
+
+button
+{
+    font-size: 20px !important;
+}
+
+canvas
+{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    box-shadow: 5px 5px 30px black;
+}
